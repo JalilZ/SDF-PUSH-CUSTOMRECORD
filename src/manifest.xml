@@ -11,10 +11,13 @@
       <feature required="false">EXTREMELIST</feature>
       <feature required="false">MAILMERGE</feature>
       <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="true">SUBSIDIARIES</feature>
+      <feature required="true">MULTICURRENCY</feature>
     </features>
     <objects>
       <object>customrecord_revenue_category</object>
       <object>customrecord_bs_category</object>
+      <object>customrecord_capture_zip_po</object>
     </objects>
   </dependencies>
 </manifest>
